@@ -1,0 +1,1 @@
+Upload schema.sql to Supabase SQL Editor. Configure supabase.js. Deploy to GitHub Pages.
