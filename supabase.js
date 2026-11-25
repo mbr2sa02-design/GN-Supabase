@@ -1,2 +1,2 @@
-const SUPABASE_URL='YOUR_URL';
-const SUPABASE_ANON_KEY='YOUR_KEY';
+const SUPABASE_URL='https://aqpqrpdchfrmbinacbra.supabase.co';
+const SUPABASE_ANON_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFxcHFycGRjaGZybWJpbmFjYnJhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU1NTUwMjYsImV4cCI6MjExMTEzMTAyNn0.5gKR4KkMet1qAafcY248zqUx_Lk3xLH8XIMMMBRj_4I';
